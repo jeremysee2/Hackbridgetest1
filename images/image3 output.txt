@@ -1,0 +1,1862 @@
+
+
+Response:
+
+{
+  "language": "ja",
+  "textAngle": 0.0,
+  "orientation": "Right",
+  "regions": [
+    {
+      "boundingBox": "15,71,666,407",
+      "lines": [
+        {
+          "boundingBox": "532,71,11,381",
+          "words": [
+            {
+              "boundingBox": "532,71,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "533,88,8,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "533,98,8,3",
+              "text": "?"
+            },
+            {
+              "boundingBox": "532,130,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "533,150,8,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "533,157,8,9",
+              "text": "9"
+            },
+            {
+              "boundingBox": "532,189,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "533,211,8,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "533,218,8,6",
+              "text": "0"
+            },
+            {
+              "boundingBox": "533,225,8,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "533,255,8,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "535,261,6,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "535,271,6,11",
+              "text": "?"
+            },
+            {
+              "boundingBox": "533,285,8,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "535,288,6,10",
+              "text": "3"
+            },
+            {
+              "boundingBox": "533,299,8,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "533,308,8,21",
+              "text": "50-"
+            },
+            {
+              "boundingBox": "533,332,8,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "535,339,6,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "535,348,6,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "533,357,8,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "535,366,6,15",
+              "text": "02"
+            },
+            {
+              "boundingBox": "533,382,8,9",
+              "text": ":"
+            },
+            {
+              "boundingBox": "535,391,6,6",
+              "text": "0"
+            },
+            {
+              "boundingBox": "533,398,8,11",
+              "text": "?"
+            },
+            {
+              "boundingBox": "535,409,8,11",
+              "text": "&"
+            },
+            {
+              "boundingBox": "534,435,7,4",
+              "text": "-"
+            },
+            {
+              "boundingBox": "535,441,6,11",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "672,74,9,387",
+          "words": [
+            {
+              "boundingBox": "672,74,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,80,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,85,8,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,93,7,16",
+              "text": "9-8"
+            },
+            {
+              "boundingBox": "674,112,5,3",
+              "text": "-"
+            },
+            {
+              "boundingBox": "674,115,5,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,126,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "674,137,5,4",
+              "text": "u"
+            },
+            {
+              "boundingBox": "672,142,7,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "674,145,5,7",
+              "text": "w"
+            },
+            {
+              "boundingBox": "672,153,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,159,7,6",
+              "text": "8"
+            },
+            {
+              "boundingBox": "677,168,3,2",
+              "text": "·"
+            },
+            {
+              "boundingBox": "674,170,5,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "673,176,6,8",
+              "text": "0-"
+            },
+            {
+              "boundingBox": "674,185,5,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,195,9,22",
+              "text": "q023"
+            },
+            {
+              "boundingBox": "674,222,6,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "673,230,6,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,239,7,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "674,247,6,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "674,253,5,4",
+              "text": "u"
+            },
+            {
+              "boundingBox": "672,258,7,2",
+              "text": "-"
+            },
+            {
+              "boundingBox": "674,263,5,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,274,7,4",
+              "text": "'"
+            },
+            {
+              "boundingBox": "673,279,6,2",
+              "text": "-"
+            },
+            {
+              "boundingBox": "672,282,7,8",
+              "text": "~"
+            },
+            {
+              "boundingBox": "673,293,6,3",
+              "text": "-"
+            },
+            {
+              "boundingBox": "674,297,6,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "674,311,5,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "672,328,7,6",
+              "text": "0"
+            },
+            {
+              "boundingBox": "672,335,7,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,342,7,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,347,7,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,363,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,369,8,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,373,7,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,380,7,9",
+              "text": "&"
+            },
+            {
+              "boundingBox": "672,397,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,403,7,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,418,7,31",
+              "text": "S0d33"
+            },
+            {
+              "boundingBox": "672,450,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "672,456,7,5",
+              "text": "4"
+            }
+          ]
+        },
+        {
+          "boundingBox": "662,86,9,358",
+          "words": [
+            {
+              "boundingBox": "664,86,5,4",
+              "text": "u"
+            },
+            {
+              "boundingBox": "662,91,8,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,100,8,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,119,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "664,162,5,3",
+              "text": "-"
+            },
+            {
+              "boundingBox": "662,175,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,192,7,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,203,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,209,7,5",
+              "text": "8"
+            },
+            {
+              "boundingBox": "662,218,8,8",
+              "text": "-0"
+            },
+            {
+              "boundingBox": "664,229,7,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,234,7,5",
+              "text": "="
+            },
+            {
+              "boundingBox": "664,240,6,4",
+              "text": "·"
+            },
+            {
+              "boundingBox": "664,244,5,3",
+              "text": "?"
+            },
+            {
+              "boundingBox": "664,248,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "664,253,5,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,266,8,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "667,275,3,2",
+              "text": "·"
+            },
+            {
+              "boundingBox": "664,278,6,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,288,7,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,297,8,6",
+              "text": "0"
+            },
+            {
+              "boundingBox": "664,306,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,311,8,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "664,317,5,2",
+              "text": "-"
+            },
+            {
+              "boundingBox": "664,320,5,2",
+              "text": "-"
+            },
+            {
+              "boundingBox": "662,323,8,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,334,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,339,8,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "664,346,5,4",
+              "text": "·"
+            },
+            {
+              "boundingBox": "662,351,7,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "662,358,8,17",
+              "text": "00-"
+            },
+            {
+              "boundingBox": "664,378,5,7",
+              "text": "w"
+            },
+            {
+              "boundingBox": "662,395,7,3",
+              "text": "-"
+            },
+            {
+              "boundingBox": "664,410,6,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "663,415,6,3",
+              "text": "-"
+            },
+            {
+              "boundingBox": "664,418,6,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "664,429,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "664,434,6,10",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "198,83,10,378",
+          "words": [
+            {
+              "boundingBox": "198,83,9,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "198,86,9,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "199,104,7,12",
+              "text": "ON"
+            },
+            {
+              "boundingBox": "198,131,9,3",
+              "text": "?"
+            },
+            {
+              "boundingBox": "198,135,9,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "199,152,7,10",
+              "text": "OA"
+            },
+            {
+              "boundingBox": "199,183,7,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "201,203,5,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "200,208,6,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "199,215,7,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "199,218,7,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "200,233,6,4",
+              "text": "0"
+            },
+            {
+              "boundingBox": "199,238,7,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "201,243,5,3",
+              "text": "?"
+            },
+            {
+              "boundingBox": "200,246,8,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "200,253,6,8",
+              "text": "0-"
+            },
+            {
+              "boundingBox": "200,263,6,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "199,271,7,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "200,281,6,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "199,312,6,3",
+              "text": "?"
+            },
+            {
+              "boundingBox": "201,322,4,2",
+              "text": "-"
+            },
+            {
+              "boundingBox": "201,325,5,1",
+              "text": "-"
+            },
+            {
+              "boundingBox": "201,327,5,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "200,332,6,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "201,339,7,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "201,344,5,9",
+              "text": "ue"
+            },
+            {
+              "boundingBox": "200,356,6,29",
+              "text": "0g0u0"
+            },
+            {
+              "boundingBox": "200,396,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "200,403,6,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "199,411,7,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "200,420,6,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "200,425,7,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "199,441,7,5",
+              "text": "="
+            },
+            {
+              "boundingBox": "199,456,7,5",
+              "text": "0"
+            }
+          ]
+        },
+        {
+          "boundingBox": "209,83,10,79",
+          "words": [
+            {
+              "boundingBox": "209,83,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "209,104,7,12",
+              "text": "?"
+            },
+            {
+              "boundingBox": "209,131,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "209,146,7,16",
+              "text": "SOA"
+            }
+          ]
+        },
+        {
+          "boundingBox": "575,94,10,105",
+          "words": [
+            {
+              "boundingBox": "575,94,10,11",
+              "text": "?"
+            },
+            {
+              "boundingBox": "576,121,8,13",
+              "text": "ON"
+            },
+            {
+              "boundingBox": "575,158,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "576,182,8,17",
+              "text": "SOA"
+            }
+          ]
+        },
+        {
+          "boundingBox": "130,96,9,87",
+          "words": [
+            {
+              "boundingBox": "131,96,7,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "132,104,6,4",
+              "text": "0"
+            },
+            {
+              "boundingBox": "131,109,7,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "132,112,6,4",
+              "text": "0"
+            },
+            {
+              "boundingBox": "131,116,8,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "131,126,7,35",
+              "text": "-60'000'"
+            },
+            {
+              "boundingBox": "131,164,7,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "130,177,8,6",
+              "text": "0"
+            }
+          ]
+        },
+        {
+          "boundingBox": "402,96,91,12",
+          "words": [
+            {
+              "boundingBox": "402,98,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "413,98,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "424,98,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "435,98,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "445,98,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "457,97,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "483,96,10,10",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "258,99,88,10",
+          "words": [
+            {
+              "boundingBox": "258,99,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "270,99,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "281,99,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "315,99,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "326,99,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "337,99,9,10",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "93,108,9,75",
+          "words": [
+            {
+              "boundingBox": "95,108,7,12",
+              "text": "-06"
+            },
+            {
+              "boundingBox": "95,120,5,3",
+              "text": "?"
+            },
+            {
+              "boundingBox": "93,124,8,9",
+              "text": "2"
+            },
+            {
+              "boundingBox": "93,145,7,6",
+              "text": "0"
+            },
+            {
+              "boundingBox": "93,154,8,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "94,164,7,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "95,172,6,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "93,177,7,6",
+              "text": "0"
+            }
+          ]
+        },
+        {
+          "boundingBox": "187,142,11,259",
+          "words": [
+            {
+              "boundingBox": "187,142,11,41",
+              "text": "swaged"
+            },
+            {
+              "boundingBox": "187,187,9,12",
+              "text": "11"
+            },
+            {
+              "boundingBox": "187,200,9,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "189,211,7,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "189,216,7,6",
+              "text": "0"
+            },
+            {
+              "boundingBox": "187,222,9,3",
+              "text": "?"
+            },
+            {
+              "boundingBox": "189,228,7,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "188,235,8,3",
+              "text": "?"
+            },
+            {
+              "boundingBox": "189,238,7,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "187,245,9,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "189,248,9,28",
+              "text": "duJOO"
+            },
+            {
+              "boundingBox": "189,292,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "187,298,9,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "187,307,9,7",
+              "text": "d"
+            },
+            {
+              "boundingBox": "192,317,2,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "189,326,7,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "189,333,7,12",
+              "text": "00"
+            },
+            {
+              "boundingBox": "187,346,9,6",
+              "text": "="
+            },
+            {
+              "boundingBox": "189,353,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "189,359,7,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "187,365,9,5",
+              "text": "="
+            },
+            {
+              "boundingBox": "187,371,11,30",
+              "text": "dWOO"
+            }
+          ]
+        },
+        {
+          "boundingBox": "259,161,234,12",
+          "words": [
+            {
+              "boundingBox": "259,163,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "270,163,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "282,163,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "300,161,2,12",
+              "text": "!"
+            },
+            {
+              "boundingBox": "316,163,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "327,163,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "338,163,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "349,163,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "359,163,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "370,163,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "402,161,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "413,161,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "424,161,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "435,161,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "445,161,10,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "457,161,9,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "483,161,10,10",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "632,195,8,86",
+          "words": [
+            {
+              "boundingBox": "634,195,6,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "632,205,8,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "634,213,5,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "632,219,8,12",
+              "text": "4-"
+            },
+            {
+              "boundingBox": "634,234,6,19",
+              "text": "2u0-"
+            },
+            {
+              "boundingBox": "634,262,6,5",
+              "text": "2"
+            },
+            {
+              "boundingBox": "632,268,8,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "632,275,8,6",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "boundingBox": "38,212,13,139",
+          "words": [
+            {
+              "boundingBox": "41,212,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "41,218,7,7",
+              "text": "0"
+            },
+            {
+              "boundingBox": "38,225,10,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "41,236,7,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "41,244,10,7",
+              "text": "6"
+            },
+            {
+              "boundingBox": "41,251,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "41,257,7,6",
+              "text": "2"
+            },
+            {
+              "boundingBox": "38,264,10,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "41,272,7,6",
+              "text": "0"
+            },
+            {
+              "boundingBox": "38,279,10,9",
+              "text": "!"
+            },
+            {
+              "boundingBox": "38,289,10,8",
+              "text": "0"
+            },
+            {
+              "boundingBox": "38,317,10,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "41,320,10,22",
+              "text": "dso"
+            },
+            {
+              "boundingBox": "38,343,10,8",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "370,217,10,88",
+          "words": [
+            {
+              "boundingBox": "372,217,6,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "370,228,8,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "372,230,6,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "371,236,7,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "372,244,6,11",
+              "text": "?"
+            },
+            {
+              "boundingBox": "372,258,8,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "372,266,6,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "372,275,6,11",
+              "text": "?"
+            },
+            {
+              "boundingBox": "370,286,8,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "370,294,8,11",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "359,230,10,75",
+          "words": [
+            {
+              "boundingBox": "361,230,6,21",
+              "text": "x:u.m"
+            },
+            {
+              "boundingBox": "361,252,6,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "361,263,8,13",
+              "text": "09"
+            },
+            {
+              "boundingBox": "359,288,8,17",
+              "text": "08"
+            }
+          ]
+        },
+        {
+          "boundingBox": "15,229,9,84",
+          "words": [
+            {
+              "boundingBox": "15,229,9,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "18,232,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "16,237,8,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "15,245,9,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "15,255,9,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "16,264,8,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "18,271,6,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "16,284,8,6",
+              "text": "0"
+            },
+            {
+              "boundingBox": "18,294,6,5",
+              "text": "2"
+            },
+            {
+              "boundingBox": "15,300,9,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "15,307,9,6",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "484,265,11,187",
+          "words": [
+            {
+              "boundingBox": "484,265,8,5",
+              "text": "
+,
+            {
+              "boundingBox": "485,271,8,15",
+              "text": "02"
+            },
+            {
+              "boundingBox": "485,287,8,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "486,296,8,15",
+              "text": "02"
+            },
+            {
+              "boundingBox": "486,314,8,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "486,320,7,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "486,329,9,6",
+              "text": "6"
+            },
+            {
+              "boundingBox": "486,335,7,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "486,345,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "485,353,8,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "485,362,7,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "486,371,7,14",
+              "text": "WO"
+            },
+            {
+              "boundingBox": "485,386,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "485,392,8,5",
+              "text": "q"
+            },
+            {
+              "boundingBox": "486,398,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "486,406,7,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "485,416,7,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "486,426,7,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "485,435,7,4",
+              "text": "-"
+            },
+            {
+              "boundingBox": "486,441,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "486,447,7,5",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "446,270,10,191",
+          "words": [
+            {
+              "boundingBox": "446,270,9,23",
+              "text": "(unO'"
+            },
+            {
+              "boundingBox": "446,296,8,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "446,303,8,6",
+              "text": "«"
+            },
+            {
+              "boundingBox": "446,310,8,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "447,319,7,13",
+              "text": "06"
+            },
+            {
+              "boundingBox": "446,333,10,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "448,341,6,18",
+              "text": "u60"
+            },
+            {
+              "boundingBox": "448,373,6,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "446,384,10,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "446,395,8,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "448,405,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "447,410,9,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "446,420,9,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "446,434,8,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "446,455,8,6",
+              "text": "0"
+            }
+          ]
+        },
+        {
+          "boundingBox": "138,274,9,64",
+          "words": [
+            {
+              "boundingBox": "140,274,7,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "140,285,7,9",
+              "text": "&"
+            },
+            {
+              "boundingBox": "140,294,6,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "138,303,8,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "140,312,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "139,319,7,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "140,328,6,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "138,332,7,6",
+              "text": "0"
+            }
+          ]
+        },
+        {
+          "boundingBox": "113,282,8,57",
+          "words": [
+            {
+              "boundingBox": "115,282,6,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "115,288,6,4",
+              "text": "0"
+            },
+            {
+              "boundingBox": "115,301,5,4",
+              "text": "u"
+            },
+            {
+              "boundingBox": "115,306,6,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "114,311,6,6",
+              "text": "'"
+            },
+            {
+              "boundingBox": "113,320,8,19",
+              "text": "SMN"
+            }
+          ]
+        },
+        {
+          "boundingBox": "576,304,10,148",
+          "words": [
+            {
+              "boundingBox": "576,304,8,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "578,313,8,5",
+              "text": "b"
+            },
+            {
+              "boundingBox": "578,319,6,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "578,331,6,12",
+              "text": "I-JO"
+            },
+            {
+              "boundingBox": "576,344,8,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "577,346,7,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "576,355,8,5",
+              "text": "="
+            },
+            {
+              "boundingBox": "577,361,7,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "578,370,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "578,376,6,5",
+              "text": "»"
+            },
+            {
+              "boundingBox": "578,393,6,4",
+              "text": "0"
+            },
+            {
+              "boundingBox": "576,398,8,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "578,407,6,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "576,413,8,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "578,419,6,19",
+              "text": "00E"
+            },
+            {
+              "boundingBox": "578,441,6,5",
+              "text": "·"
+            },
+            {
+              "boundingBox": "578,447,6,5",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "208,294,9,167",
+          "words": [
+            {
+              "boundingBox": "209,294,7,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "210,304,6,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "209,313,6,4",
+              "text": "·"
+            },
+            {
+              "boundingBox": "209,317,7,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "210,357,6,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "210,372,7,7",
+              "text": "&"
+            },
+            {
+              "boundingBox": "210,382,6,15",
+              "text": "60"
+            },
+            {
+              "boundingBox": "209,398,7,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "210,408,7,13",
+              "text": "00-"
+            },
+            {
+              "boundingBox": "210,423,6,9",
+              "text": "OS"
+            },
+            {
+              "boundingBox": "209,441,7,4",
+              "text": "="
+            },
+            {
+              "boundingBox": "208,456,8,5",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "610,314,10,164",
+          "words": [
+            {
+              "boundingBox": "612,314,6,1",
+              "text": "?"
+            },
+            {
+              "boundingBox": "612,325,6,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "610,334,8,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "612,339,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "611,345,7,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "610,356,10,31",
+              "text": "0u400"
+            },
+            {
+              "boundingBox": "612,387,6,3",
+              "text": "?"
+            },
+            {
+              "boundingBox": "612,390,6,3",
+              "text": "?"
+            },
+            {
+              "boundingBox": "612,394,6,10",
+              "text": "00"
+            },
+            {
+              "boundingBox": "612,407,6,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "612,413,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "612,418,6,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "612,427,6,6",
+              "text": "·"
+            },
+            {
+              "boundingBox": "612,433,8,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "610,440,8,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "612,451,6,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "612,460,6,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "610,471,8,7",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "boundingBox": "435,325,10,103",
+          "words": [
+            {
+              "boundingBox": "437,325,6,5",
+              "text": "·"
+            },
+            {
+              "boundingBox": "437,331,6,12",
+              "text": "uo"
+            },
+            {
+              "boundingBox": "435,344,8,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "436,346,7,3",
+              "text": "-"
+            },
+            {
+              "boundingBox": "437,350,6,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "435,361,8,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "435,364,8,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "437,366,8,6",
+              "text": "d"
+            },
+            {
+              "boundingBox": "437,373,6,2",
+              "text": "-"
+            },
+            {
+              "boundingBox": "437,376,6,17",
+              "text": "-60"
+            },
+            {
+              "boundingBox": "435,396,8,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "437,402,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "436,407,7,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "435,417,8,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "437,425,6,3",
+              "text": "-"
+            }
+          ]
+        },
+        {
+          "boundingBox": "403,357,9,104",
+          "words": [
+            {
+              "boundingBox": "403,357,8,8",
+              "text": "!"
+            },
+            {
+              "boundingBox": "404,366,7,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "403,371,8,27",
+              "text": "00--6"
+            },
+            {
+              "boundingBox": "405,398,5,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "403,403,8,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "404,415,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "403,421,8,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "404,429,6,6",
+              "text": "»"
+            },
+            {
+              "boundingBox": "404,437,8,6",
+              "text": "0"
+            },
+            {
+              "boundingBox": "403,455,7,6",
+              "text": "0"
+            }
+          ]
+        },
+        {
+          "boundingBox": "424,358,10,103",
+          "words": [
+            {
+              "boundingBox": "426,358,6,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "424,364,8,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "425,373,7,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "426,382,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "424,387,8,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "425,397,7,8",
+              "text": ":"
+            },
+            {
+              "boundingBox": "426,406,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "426,412,6,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "425,421,7,3",
+              "text": "-"
+            },
+            {
+              "boundingBox": "426,427,8,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "426,437,6,10",
+              "text": "?"
+            },
+            {
+              "boundingBox": "424,448,8,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "424,455,8,6",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "316,379,8,69",
+          "words": [
+            {
+              "boundingBox": "316,379,8,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "318,385,6,5",
+              "text": "?"
+            },
+            {
+              "boundingBox": "316,390,8,8",
+              "text": "!"
+            },
+            {
+              "boundingBox": "316,401,8,8",
+              "text": "?"
+            },
+            {
+              "boundingBox": "317,410,7,27",
+              "text": "-0E0-"
+            },
+            {
+              "boundingBox": "318,438,6,4",
+              "text": "·"
+            },
+            {
+              "boundingBox": "318,443,6,5",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "414,381,7,67",
+          "words": [
+            {
+              "boundingBox": "415,381,6,9",
+              "text": "?"
+            },
+            {
+              "boundingBox": "415,391,6,5",
+              "text": "n"
+            },
+            {
+              "boundingBox": "414,397,7,5",
+              "text": "="
+            },
+            {
+              "boundingBox": "414,414,7,7",
+              "text": "?"
+            },
+            {
+              "boundingBox": "415,422,6,4",
+              "text": "?"
+            },
+            {
+              "boundingBox": "415,427,6,5",
+              "text": "0"
+            },
+            {
+              "boundingBox": "414,433,7,6",
+              "text": "?"
+            },
+            {
+              "boundingBox": "417,442,2,6",
+              "text": "?"
+            }
+          ]
+        },
+        {
+          "boundingBox": "123,393,8,85",
+          "words": [
+            {
+              "boundingBox": "123,393,8,2",
+              "text": "("
+            },
+            {
+              "boundingBox": "126,415,2,1",
+              "text": "-"
+            },
+            {
+              "boundingBox": "124,417,6,10",
+              "text": "-6"
+            },
+            {
+              "boundingBox": "124,428,6,2",
+              "text": "?"
+            },
+            {
+              "boundingBox": "123,430,7,18",
+              "text": "F00"
+            },
+            {
+              "boundingBox": "123,448,8,3",
+              "text": "?"
+            },
+            {
+              "boundingBox": "123,453,7,6",
+              "text": "9"
+            },
+            {
+              "boundingBox": "123,462,7,16",
+              "text": "0-0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

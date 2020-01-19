@@ -1,0 +1,10 @@
+C:\Users\Jeremy\source\repos\Hackbridgetest1\bin\Debug\netcoreapp2.1\Hackbridgetest1.deps.json
+C:\Users\Jeremy\source\repos\Hackbridgetest1\bin\Debug\netcoreapp2.1\Hackbridgetest1.runtimeconfig.json
+C:\Users\Jeremy\source\repos\Hackbridgetest1\bin\Debug\netcoreapp2.1\Hackbridgetest1.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\Hackbridgetest1\bin\Debug\netcoreapp2.1\Hackbridgetest1.dll
+C:\Users\Jeremy\source\repos\Hackbridgetest1\bin\Debug\netcoreapp2.1\Hackbridgetest1.pdb
+C:\Users\Jeremy\source\repos\Hackbridgetest1\obj\Debug\netcoreapp2.1\Hackbridgetest1.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\Hackbridgetest1\obj\Debug\netcoreapp2.1\Hackbridgetest1.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\Hackbridgetest1\obj\Debug\netcoreapp2.1\Hackbridgetest1.dll
+C:\Users\Jeremy\source\repos\Hackbridgetest1\obj\Debug\netcoreapp2.1\Hackbridgetest1.pdb
+C:\Users\Jeremy\source\repos\Hackbridgetest1\obj\Debug\netcoreapp2.1\Hackbridgetest1.csprojAssemblyReference.cache
